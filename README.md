@@ -5,6 +5,7 @@
 # 测试适用版本
 
 Surge：4.1.0(1298)
+
 macOS：11.3正式版
 
 emby：App Store官方1.9.9(2)
@@ -26,7 +27,8 @@ emby：App Store官方1.9.9(2)
 4. 在Surge客户端点击`更多`选项，点击`模块`，点击`从URL安装模块`，输入下方网站，并点击`应用`。
 
 ```html
-1213
+https://github.com/eggleader-zhang/Unlock-Emby-Surge/raw/main/unlock-emby-surge.sgmodule
 ```
 
 5. 重新打开Surge的代理开关，打开Emby客户端，尽情使用吧！
+
